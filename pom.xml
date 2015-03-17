@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.panthers</groupId>
 	<artifactId>nuCaptcha</artifactId>
-	<version>0.1-SNAPSHOT</version>
+	<version>0.1</version>
 	<name>Java captcha library</name>
 	<description>A captcha library inspired from SimpleCaptcha</description>
 	<url>https://github.com/panthers/nuCaptcha</url>
